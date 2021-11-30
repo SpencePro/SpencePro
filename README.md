@@ -13,7 +13,7 @@ I am also learning more about data structures and algorithms, as well as studyin
 You can contact me a variety of ways: 
 - spencer.a.rodgers@gmail.com
 - https://www.linkedin.com/in/spencer-rodgers-b3322997/
-- contact me by email or LinkedI first to get my phone number to call or text
+- contact me by email or LinkedIn first to get my phone number to call or text
 
 I am open to job offers, collaborations, and meet-ups; you can also just say hi!
 
