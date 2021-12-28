@@ -1,10 +1,10 @@
 ## Welcome to my GitHub!
 
-I am a web developer interested in full-stack web development. I am pivoting from political science to computer science, and am interested in building websites, web applications, and solving technology-related problems with a variety of tools, including Python, Django, JavaScript, React.js, and MySQL. 
+I am a web developer interested in full-stack web development. I pivoted from political science to computer science, and am interested in building websites, web applications, and solving technology-related problems with a variety of tools, including Python, Django, JavaScript, and React.js. 
 
 #### What am I working on? 
 
-At the moment I am continuing to strengthen my skills in web development and design with Django and React. My next project is a personal website. Stay tuned for updates on that!
+At the moment I am continuing to strengthen my skills in web development and design with Django and React. My next project is a personal website; stay tuned for updates on that!
 
 I am also learning more about data structures and algorithms, as well as studying design patterns for web development. I love the lifelong learning aspect of programming; it energizes me!
 
@@ -14,8 +14,6 @@ You can contact me a variety of ways:
 - spencer.a.rodgers@gmail.com
 - https://www.linkedin.com/in/spencer-rodgers-b3322997/
 - contact me by email or LinkedIn first to get my phone number to call or text
-
-I am open to job offers, collaborations, and meet-ups; you can also just say hi!
 
 #### Fun facts?
 
