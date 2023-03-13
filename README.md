@@ -1,10 +1,10 @@
 ## Welcome to my GitHub!
 
-I am a web developer interested in full-stack web development. I pivoted from political science to computer science, and am interested in building websites, web applications, and solving technology-related problems with a variety of tools, including Python, Django, TypeScript, and React.js. 
+I am a web developer interested in full-stack web development. I pivoted from political science to computer science, and am interested in building websites, web applications, and solving technology-related problems with a variety of tools, including TypeScript, React.js, NextJS, Python, and Django. 
 
 #### What am I working on? 
 
-At the moment I am continuing to strengthen my skills in web development and design with TypeScript and React. My next project is a personal website; stay tuned for updates on that!
+At the moment I am continuing to strengthen my skills in web development and design with TypeScript and React.
 
 I am also learning more about data structures and algorithms, as well as studying design patterns for web development. I love the lifelong learning aspect of programming; it energizes me!
 
