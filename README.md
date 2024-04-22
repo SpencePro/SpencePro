@@ -8,13 +8,6 @@ At the moment I am continuing to strengthen my skills in web development and des
 
 I am also learning more about data structures and algorithms, as well as studying design patterns for web development. The lifelong learning aspect of programming is one of my favorite parts!
 
-#### Where can you reach me?
-
-You can contact me a variety of ways: 
-- spencer.a.rodgers@gmail.com
-- https://www.linkedin.com/in/spencer-rodgers-b3322997/
-- contact me by email or LinkedIn first to get my phone number to call or text
-
 #### Fun facts?
 
 I lived in Europe for 9 1/2 years, in Germany, Romania, and England, and I speak German. I love travelling and have been to around 30 countries. 
